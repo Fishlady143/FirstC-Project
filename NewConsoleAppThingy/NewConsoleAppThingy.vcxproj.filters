@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C1W3HW.cpp">
+    <ClCompile Include="LoopsAndLists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
